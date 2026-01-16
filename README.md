@@ -40,7 +40,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 <p align="center">
   <img src="https://github.com/user-attachments/assets/63d00ea9-5ac2-4391-b7f3-01112c41c79a" width="300" alt="Assignment Photo">
 </p>
-<p align="center>Teamwork makes the dream work!</p>
+<p align="center" >Teamwork makes the dream work!</p>
 
 
 
@@ -54,7 +54,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b28eb135-ea7a-4b63-bc38-0b88778c1962" width="300" alt="Assignment Photo">
 </p>
-<p align="center>The beauty of a PC from inside!</p>
+<p align="center" >The beauty of a PC from inside!</p>
 
 ---
 
@@ -66,7 +66,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b28eb135-ea7a-4b63-bc38-0b88778c1962" width="300" alt="Assignment Photo">
 </p>
-<p align="center>The beauty of a PC from inside!</p>
+<p align="center" >The beauty of a PC from inside!</p>
 
 ---
 
@@ -78,7 +78,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 <p align="center">
   <img src="https://github.com/user-attachments/assets/040b3eea-5f29-4cda-a3e4-005376002f73" width="300" alt="Assignment Photo">
 </p>
-<p align="center>Industry Talk 2 Report</p>
+<p align="center" >Industry Talk 2 Report</p>
 
 
 ---
