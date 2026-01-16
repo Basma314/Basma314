@@ -43,8 +43,8 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 ---
 
 ### 2. Poster on Industry Talk 1
-* **Summary:** This week , my team and I gained the experience of interacting with miscellaneous multimedia and graphics tools and platforms for the sake of designing a poster on the informative Industry Talk 1.  To some of us, this was a brand new experience. To others, including myself , it was further practice for our skills in design and multimedia.Designing this poster collaboratively with my team while reflecting on our valuable takes from the talk, was a truly enjoyable time.
-* 
+* **Summary:** This week , my team and I gained the experience of interacting with miscellaneous multimedia and graphics tools and platforms for the sake of designing a poster on the informative Industry Talk 1.  To some of us, this was a brand new experience. To others, including myself , it was further practice for our skills in design and multimedia.Designing this poster collaboratively with my team while reflecting on our valuable takes from the talk, was a truly enjoyable time!
+  
 * **Reflections:**  What was new to me, however, was the insight I got into the field of Data Analytics, Infrastructure and SAP. Most interestingly , what a day in a data analyst's life could look like as shared by the esteemed staff of PPG.
 
 The poster:(PASTE_LINK_OR_DRAG_PHOTO_HERE)
@@ -53,9 +53,13 @@ The poster:(PASTE_LINK_OR_DRAG_PHOTO_HERE)
 
 ### 3. PC Assemble (Lab)
 * **Summary:** I gained hands-on experience by completely disassembling a PC and carefully putting it back together, ensuring all hardware components like the motherboard, RAM, and power supply were correctly seated and connected.
+  
 * **Reflections:** It was interesting to see the physical side of computers; it made me realize that even the most advanced AI depends on these real, physical parts working correctly.It also helped me ground the concepts I had lernt theoretically from my course: Information and Technology System.
 
-Oh the beauty of a PC from the inside! ![PC Assembly](https://github.com/user-attachments/assets/fe8d9eef-a72c-4b03-bf28-aba7995144b7)
+The beauty of a PC from the inside!
+<p align="center">
+  <img src="![PC Assembly](https://github.com/user-attachments/assets/fe8d9eef-a72c-4b03-bf28-aba7995144b7)" width="500" alt="Assignment Photo">
+</p>
 
 
 ---
