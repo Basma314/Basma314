@@ -37,7 +37,11 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
   
 * **Reflections:** Personally, I was most impressed by the interactive features at the Microsoft Malaysia booth, specifically their expert systems integrated into CCTV and security infrastructures.It was a powerful example of AI serving a positive purpose, and it has inspired me to continue my journey toward becoming an AI Ethicist who advocates for technology that truly protects and serves society
 
-![Video assignment](https://github.com/user-attachments/assets/63d00ea9-5ac2-4391-b7f3-01112c41c79a)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/63d00ea9-5ac2-4391-b7f3-01112c41c79a" width="300" alt="Assignment Photo">
+</p>
+<p align="center>Teamwork makes the dream work!</p>
+
 
 
 ---
@@ -47,7 +51,10 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
   
 * **Reflections:**  What was new to me, however, was the insight I got into the field of Data Analytics, Infrastructure and SAP. Most interestingly , what a day in a data analyst's life could look like as shared by the esteemed staff of PPG.
 
-The poster:(PASTE_LINK_OR_DRAG_PHOTO_HERE)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b28eb135-ea7a-4b63-bc38-0b88778c1962" width="300" alt="Assignment Photo">
+</p>
+<p align="center>The beauty of a PC from inside!</p>
 
 ---
 
@@ -63,11 +70,16 @@ The poster:(PASTE_LINK_OR_DRAG_PHOTO_HERE)
 
 ---
 
-### 4. [Assignment Title 4]
-* **Summary:** [Summarize what you gained from this assignment]
-* **Reflections:** [Suggest an improvement or share your creative thoughts/opinions]
+### 4. Academic Writing on Industry Talk 2
+* **Summary:** In an elaborate and interactive session, we had discussed the Agile and Waterfall software development methodologies, alongside many other relevant concepts in the field of Project Management and System Development. This informative talk was delivered by the experienced Head of Technology and Innovation at Serunai Commerce Sdn Bhd :TS.HJ.Abdul Alim Bin Abdul Muttalib, whom had also genrously shared with us his experience from the moment of graduation until his respected position today. Greatly relating to his story and background, we gained the courage to work harder and become more aware of the need to keeping up with the industry's skill demands and realities.
+  
+* **Reflections:** Industry talk 2 changed my view to computer science. It made me realize that it is not just about computers but about solving problems in any field. I plan to create meaningful impact across diverse industries by aligning my studies at UTM with the latest market demands.
 
-![Image Description](PASTE_LINK_OR_DRAG_PHOTO_HERE)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/040b3eea-5f29-4cda-a3e4-005376002f73" width="300" alt="Assignment Photo">
+</p>
+<p align="center>Industry Talk 2 Report</p>
+
 
 ---
 
