@@ -36,7 +36,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 * **Summary:** What a memorable day ! Vibrant, full of good vibes and insightful interactions. Thanks to assignment 1, my group and I had the honour of exploring how UTM is embracing digital transformation. All the various talks delivered by the biggest names in the Tech Industry as well as their interactive booth educated us on the latest technology in the field and what our future selves could look like pursuing our desired careers.
 * **Reflections:** Personally, I was most impressed by the interactive features at the Microsoft Malaysia booth, specifically their expert systems integrated into CCTV and security infrastructures.It was a powerful example of AI serving a positive purpose, and it has inspired me to continue my journey toward becoming an AI Ethicist who advocates for technology that truly protects and serves society
 
-![Image Description](![Video assignment](https://github.com/user-attachments/assets/63d00ea9-5ac2-4391-b7f3-01112c41c79a))
+![Video assignment](https://github.com/user-attachments/assets/63d00ea9-5ac2-4391-b7f3-01112c41c79a)
 
 
 ---
