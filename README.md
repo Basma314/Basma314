@@ -58,7 +58,8 @@ The poster:(PASTE_LINK_OR_DRAG_PHOTO_HERE)
 
 The beauty of a PC from the inside!
 <p align="center">
-  <img src="![PC Assembly](https://github.com/user-attachments/assets/fe8d9eef-a72c-4b03-bf28-aba7995144b7)" width="500" alt="Assignment Photo">
+  <img src="![PC Assembly](https://github.com/user-attachments/assets/b28eb135-ea7a-4b63-bc38-0b88778c1962)
+" width="500" alt="Assignment Photo">
 </p>
 
 
