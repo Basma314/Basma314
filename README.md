@@ -32,10 +32,10 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 
 ## 📝 Course Assignments & Reflections
 
-### 1. Video Blog to UTM Digital Day
-* **Summary:** What a memorable day ! Vibrant, full of good vibes and insightful interactions. Thanks to this assignment , my group and I had the honour of exploring how UTM is embracing digital transformation. All the various talks delivered by the biggest names in the Tech Industry as well as their interactive booth educated us on the latest technology in the field and what our future selves could look like pursuing our desired careers✨
+### 1. Video Blog to UTM Digital Day🎬
+* **Summary:** What a memorable day ! Vibrant, full of good vibes and insightful interactions. Thanks to this assignment , my group and I had the honour of exploring how UTM is embracing digital transformation. All the various talks delivered by the biggest names in the Tech Industry as well as their interactive booth educated us on the latest technology in the field and what our future selves could look like pursuing our desired careers.
   
-* **Reflections:** Personally, I was most impressed by the interactive features at the Microsoft Malaysia booth, specifically their expert systems integrated into CCTV and security infrastructures.It was a powerful example of AI serving a positive purpose, and it has inspired me to continue my journey toward becoming an AI Ethicist who advocates for technology that truly protects and serves society
+* **Reflections:** Personally, I was most impressed by the interactive features at the Microsoft Malaysia booth, specifically their expert systems integrated into CCTV and security infrastructures.It was a powerful example of AI serving a positive purpose, and it has inspired me to continue my journey toward becoming an AI Ethicist who advocates for technology that truly protects and serves society.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/63d00ea9-5ac2-4391-b7f3-01112c41c79a" width="300" alt="Assignment Photo">
@@ -46,7 +46,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 
 ---
 
-### 2. Poster on Industry Talk 1
+### 2. Poster on Industry Talk 1📜
 * **Summary:** This week , my team and I gained the experience of interacting with miscellaneous multimedia and graphics tools and platforms for the sake of designing a poster on the informative Industry Talk 1.  To some of us, this was a brand new experience. To others, including myself , it was further practice for our skills in design and multimedia.Designing this poster collaboratively with my team while reflecting on our valuable takes from the talk, was a truly enjoyable time!
   
 * **Reflections:**  What was new to me, however, was the insight I got into the field of Data Analytics, Infrastructure and SAP. Most interestingly , what a day in a data analyst's life could look like as shared by the esteemed staff of PPG.
@@ -58,7 +58,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 
 ---
 
-### 3. PC Assemble (Lab)
+### 3. PC Assemble (Lab)🖥️
 * **Summary:** I gained hands-on experience by completely disassembling a PC and carefully putting it back together, ensuring all hardware components like the motherboard, RAM, and power supply were correctly seated and connected.
   
 * **Reflections:** It was interesting to see the physical side of computers; it made me realize that even the most advanced AI depends on these real, physical parts working correctly.It also helped me ground the concepts I had lernt theoretically from my course: Information and Technology System.
@@ -70,7 +70,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 
 ---
 
-### 4. Academic Writing on Industry Talk 2
+### 4. Academic Writing on Industry Talk 2📑
 * **Summary:** In an elaborate and interactive session, we had discussed the Agile and Waterfall software development methodologies, alongside many other relevant concepts in the field of Project Management and System Development. This informative talk was delivered by the experienced Head of Technology and Innovation at Serunai Commerce Sdn Bhd :TS.HJ.Abdul Alim Bin Abdul Muttalib, whom had also genrously shared with us his experience from the moment of graduation until his respected position today. Greatly relating to his story and background, we gained the courage to work harder and become more aware of the need to keeping up with the industry's skill demands and realities.
   
 * **Reflections:** Industry talk 2 changed my view to computer science. It made me realize that it is not just about computers but about solving problems in any field. I plan to create meaningful impact across diverse industries by aligning my studies at UTM with the latest market demands.
@@ -96,6 +96,22 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 * **Reflections:** [Suggest an improvement or share your creative thoughts/opinions]
 
 ![Image Description](PASTE_LINK_OR_DRAG_PHOTO_HERE)
+
+
+## 🏆 Accomplishments & Engagement
+
+### 📜 Professional Certifications
+* 1 Million Prompters - Dubai Centre for Artificial Intelligence (DCAI) & Dubai Future Foundation (DFF)
+* ISO/IEC 27001:2022 Lead Auditor - Mastermind Assurance
+* Leadership and Followership - The Open University
+* 2025 Aspire Leaders Program - Aspire Institute
+* Virtual Global Hackathon 2023 - Crimson Education 
+
+### 🚀 Featured Projects
+* **[Project Name]:** [Short description of what you did]
+
+### 🎖️ Awards & Extracurriculars
+* [Award Name or Club Position]
 
 
 ### 🎆 Socials
