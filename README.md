@@ -11,7 +11,8 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 * 🧠  I'm currently learning C++, American Sign Language, UX and UI Design
 * 👥  I'm looking to collaborate on Human-Centric Security Design , Legal-Tech Solutions for Digital Rights , Creative AI Safety
 * 💬  Ask me about Always down to spill the tea on societal trends🍵
------------------------
+
+
 
 ### 🛠️ Technical & Soft Skills
 
@@ -31,7 +32,6 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 
 
 
-
 ### 🎓 Education & Position
 
 #### **Bachelors in Computer Science (Networks and Security) | Universiti Teknologi Malaysia**
@@ -42,6 +42,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
     * Discrete Structure
     * Programming Technique I
     * Integrity and Anti-Corruption
+
 
 
 
@@ -108,6 +109,8 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 * **Reflections:** [Suggest an improvement or share your creative thoughts/opinions]
 
 ![Image Description](PASTE_LINK_OR_DRAG_PHOTO_HERE)
+
+
 
 
 ## 🏆 Accomplishments & Engagement
