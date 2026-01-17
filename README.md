@@ -11,14 +11,24 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 * 🧠  I'm currently learning C++, American Sign Language, UX and UI Design
 * 👥  I'm looking to collaborate on Human-Centric Security Design , Legal-Tech Solutions for Digital Rights , Creative AI Safety
 * 💬  Ask me about Always down to spill the tea on societal trends🍵
+-----------------------
 
+### 🛠️ Technical & Soft Skills
 
-
-### 🛠️ Skills
-
+#### **Programming & Design Tools**
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
 </p>
+
+#### **Engineering & Networks**
+* **Prompt Engineering:** Expert use of LLMs for specialized tasks (DCAI Accredited)
+* **Security Auditing:** ISO/IEC 27001:2022 Lead Auditor standards
+* **Hardware:** Circuit Assembly, PC Maintenance
+
+#### **Leadership & Strategy**
+* **Global Collaboration:** Experience in international hackathons and leadership programs
+* **Analytical Thinking:** Deep insight into Data Analytics and SAP workflows
+
 
 
 
