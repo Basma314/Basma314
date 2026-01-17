@@ -12,11 +12,15 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 * 👥  I'm looking to collaborate on Human-Centric Security Design , Legal-Tech Solutions for Digital Rights , Creative AI Safety
 * 💬  Ask me about Always down to spill the tea on societal trends🍵
 
+
+
 ### 🛠️ Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
 </p>
+
+
 
 ### 🎓 Education & Position
 
@@ -30,6 +34,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
     * Integrity and Anti-Corruption
 
 
+
 ## 📝 Course Assignments & Reflections
 
 ### 1. Video Blog to UTM Digital Day🎬
@@ -41,8 +46,6 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
   <img src="https://github.com/user-attachments/assets/63d00ea9-5ac2-4391-b7f3-01112c41c79a" width="300" alt="Assignment Photo">
 </p>
 <p align="center" >Teamwork makes the dream work!</p>
-
-
 
 ---
 
@@ -79,7 +82,6 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
   <img src="https://github.com/user-attachments/assets/040b3eea-5f29-4cda-a3e4-005376002f73" width="300" alt="Assignment Photo">
 </p>
 <p align="center" >Industry Talk 2 Report</p>
-
 
 ---
 
