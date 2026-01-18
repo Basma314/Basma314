@@ -125,7 +125,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 
 ### 🎖️ Awards & Extracurriculars
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/ac448c80-d6ab-47ca-9b95-850b4a1dcafa" width="80" height="80" alt="Assignment Photo">
+  <img src="https://github.com/user-attachments/assets/ac448c80-d6ab-47ca-9b95-850b4a1dcafa" width="90" height="90" alt="Assignment Photo">
 </p>
 
 
