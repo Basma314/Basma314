@@ -66,9 +66,9 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 * **Reflections:**  What was new to me, however, was the insight I got into the field of Data Analytics, Infrastructure and SAP. Most interestingly , what a day in a data analyst's life could look like as shared by the esteemed staff of PPG.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b28eb135-ea7a-4b63-bc38-0b88778c1962" width="300" alt="Assignment Photo">
+  <img src="https://github.com/user-attachments/assets/6351f1d4-6cb7-4a98-9f88-e7337aa8f138" width="300" alt="Poster">
 </p>
-<p align="center" >The beauty of a PC from inside!</p>
+<p align="center" >Industry Talk 1 Poster</p>
 
 ---
 
@@ -96,11 +96,15 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 
 ---
 
-### 5. [Assignment Title 5]
-* **Summary:** [Summarize what you gained from this assignment]
-* **Reflections:** [Suggest an improvement or share your creative thoughts/opinions]
+### 5. Design Thinking
+* **Summary:** For our final Design Thinking project at Universiti Teknologi Malaysia, my team and I tackled a common challenge on campus: transportation efficiency. We proposed and designed the Modern UTM Bus Navigation System, an interface-only prototype aimed at transforming the daily commute for people across campus.Through this collaboration, we moved beyond theoretical learning to successfully applying user-centric design and analytical problem-solving.
+  
+* **Reflections:** On a personal level, I truly valued how this project strengthened the bond between my teammates and me, turning it from a complex assignment into a rewarding shared journey. This project challenged my creativity and pushed me to think deeply about how empathetic design can directly improve the mental well-being and daily logistics of those around us.
 
-![Image Description](PASTE_LINK_OR_DRAG_PHOTO_HERE)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b1e696cc-1b83-49fe-a30c-3036071c34c3" width="300" alt="Assignment Photo">
+</p>
+<p align="center" >UTM Bus Navigator Prototype</p>
 
 ---
 
