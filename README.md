@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Basma Mutasim
 ======================================================================================================================================
 
-An Aspiring AI Ethicist
+An Aspiring AI Ethicist✨
 -----------------------
 
 A freshman in Computer Science: Networks and Security, with a vision for AI Ethics. By blending my interests in neuroscience, law, and creative problem-solving, I aim to build secure infrastructures that prioritize human values. I’m always open to new ideas, so let’s connect and chat about making a meaningful impact!
