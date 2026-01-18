@@ -118,7 +118,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 
 
 
-
+-----------------------
 ## 🏆 Accomplishments & Engagement
 -----------------------
 
@@ -129,7 +129,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 * 2025 Aspire Leaders Program - Aspire Institute
 * Virtual Global Hackathon 2023 - Crimson Education 
 
----
+
 
 ### 🎖️ Awards 
 
