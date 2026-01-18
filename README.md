@@ -122,11 +122,12 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 * 2025 Aspire Leaders Program - Aspire Institute
 * Virtual Global Hackathon 2023 - Crimson Education 
 
-### 🚀 Featured Projects
-* **[Project Name]:** [Short description of what you did]
 
 ### 🎖️ Awards & Extracurriculars
-* [Award Name or Club Position]
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/ac448c80-d6ab-47ca-9b95-850b4a1dcafa" width="300" alt="Assignment Photo">
+</p>
+
 
 
 ### 🎆 Socials
