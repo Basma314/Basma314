@@ -110,12 +110,6 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 <p align="center" >UTM Bus Navigator Prototype</p>
 
 
-### 6. [Assignment Title 6]
-* **Summary:** [Summarize what you gained from this assignment]
-* **Reflections:** [Suggest an improvement or share your creative thoughts/opinions]
-
-![Image Description](PASTE_LINK_OR_DRAG_PHOTO_HERE)
-
 
 
 -----------------------
