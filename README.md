@@ -43,7 +43,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 #### **Bachelors in Computer Science (Networks and Security) | Universiti Teknologi Malaysia**
 * **Current Status:** Freshman
 * **Relevant Courses:**
-*   * Digital Logic
+    * Digital Logic
     * Technology and Information Systems
     * Discrete Structure
     * Programming Technique I
@@ -67,7 +67,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 
 
 ### 2. Poster on Industry Talk 1📜
-* **Summary:** This week , my team and I gained the experience of interacting with miscellaneous multimedia and graphics tools and platforms for the sake of designing a poster on the informative Industry Talk 1.  To some of us, this was a brand new experience. To others, including myself , it was further practice for our skills in design and multimedia.Designing this poster collaboratively with my team while reflecting on our valuable takes from the talk, was a truly enjoyable time!
+* **Summary:** This week , my team (Group 9) and I gained the experience of interacting with miscellaneous multimedia and graphics tools and platforms for the sake of designing a poster on the informative Industry Talk 1.  To some of us, this was a brand new experience. To others, including myself , it was further practice for our skills in design and multimedia.Designing this poster collaboratively with my team while reflecting on our valuable takes from the talk, was a truly enjoyable time!
   
 * **Reflections:**  What was new to me, however, was the insight I got into the field of Data Analytics, Infrastructure and SAP. Most interestingly , what a day in a data analyst's life could look like as shared by the esteemed staff of PPG.
 
@@ -89,7 +89,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 
 
 ### 4. Academic Writing on Industry Talk 2📑
-* **Summary:** In an elaborate and interactive session, we had discussed the Agile and Waterfall software development methodologies, alongside many other relevant concepts in the field of Project Management and System Development. This informative talk was delivered by the experienced Head of Technology and Innovation at Serunai Commerce Sdn Bhd :TS.HJ.Abdul Alim Bin Abdul Muttalib, whom had also genrously shared with us his experience from the moment of graduation until his respected position today. Greatly relating to his story and background, we gained the courage to work harder and become more aware of the need to keeping up with the industry's skill demands and realities.
+* **Summary:** In an elaborate and interactive session, we had discussed the Agile and Waterfall software development methodologies, alongside many other relevant concepts in the field of Project Management and System Development. This informative talk was delivered by the experienced Head of Technology and Innovation at Serunai Commerce Sdn Bhd :TS.HJ.Abdul Alim Bin Abdul Muttalib, whom had also generously shared with us his experience from the moment of graduation until his respected position today. Greatly relating to his story and background, we gained the courage to work harder and become more aware of the need to keeping up with the industry's skill demands and realities.
   
 * **Reflections:** Industry talk 2 changed my view to computer science. It made me realize that it is not just about computers but about solving problems in any field. I plan to create meaningful impact across diverse industries by aligning my studies at UTM with the latest market demands.
 
@@ -143,6 +143,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 -----------------------
 ### 🎆 Socials
 -----------------------
+let's connect !
 
 <p align="left"> <a href="https://www.github.com/basma314" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.threads.net/@frn.bano" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://www.linkedin.com/in/soon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
