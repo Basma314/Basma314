@@ -12,6 +12,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 * 👥  I'm looking to collaborate on Human-Centric Security Design, Legal-Tech Solutions for Digital Rights, Creative AI Safety
 * 💬  Ask me about Always down to spill the tea on economics and societal trends 🍵
 
+
 ## 🛠️ Technical & Soft Skills
 ---
 
@@ -30,6 +31,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 * **Global Collaboration:** Experience in international hackathons and leadership programs
 * **Analytical Thinking:** Deep insight into Data Analytics and SAP workflows
 
+
 ## 🎓 Education & Position
 ---
 
@@ -39,6 +41,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 
 ### Diploma in Engineering
 * Specialized foundation in engineering principles and technical design
+
 
 ## 📝 Course Assignments & Reflections
 ---
@@ -79,7 +82,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 </p>
 <p align="center">Industry Talk 2 Report</p>
 
-### 5. Design Thinking 🚌
+### 5. Design Thinking 🧠
 * **Summary:** For our final Design Thinking project at Universiti Teknologi Malaysia, my team and I tackled a common challenge on campus: transportation efficiency. We proposed and designed the Modern UTM Bus Navigation System, an interface-only prototype aimed at transforming the daily commute for people across campus. Through this collaboration, we moved beyond theoretical learning to successfully applying user-centric design and analytical problem-solving.
 * **Reflections:** On a personal level, I truly valued how this project strengthened the bond between my teammates and me, turning it from a complex assignment into a rewarding shared journey. This project challenged my creativity and pushed me to think deeply about how empathetic design can directly improve the mental well-being and daily logistics of those around us.
 
@@ -87,6 +90,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
   <img src="https://github.com/user-attachments/assets/981dbb7c-f2f4-49e1-baa2-ab8c044bd5f0" width="250" alt="Prototype">
 </p>
 <p align="center">UTM Bus Navigator Prototype</p>
+
 
 ## 🏆 Accomplishments & Engagement
 ---
@@ -102,6 +106,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 <p align="left">
   <img src="https://github.com/user-attachments/assets/ac448c80-d6ab-47ca-9b95-850b4a1dcafa" width="100" height="100" alt="Leadership badge">  <img src="https://github.com/user-attachments/assets/da94b4f7-fae5-4914-8a94-42d589c3f996" width="100" height="100" alt="ALP badge"> <img src="https://github.com/user-attachments/assets/808ba387-fb1e-464c-87c2-c9bb6ef6c754" width="100" height="100" alt="ISO badge">
 </p>
+
 
 ## 🎆 Socials
 ---
