@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Basma Mutasim
 ======================================================================================================================================
 
+
+
 An Aspiring AI Ethicist
 -----------------------
 
@@ -60,7 +62,6 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 </p>
 <p align="center" >Teamwork makes the dream work!</p>
 
----
 
 ### 2. Poster on Industry Talk 1📜
 * **Summary:** This week , my team and I gained the experience of interacting with miscellaneous multimedia and graphics tools and platforms for the sake of designing a poster on the informative Industry Talk 1.  To some of us, this was a brand new experience. To others, including myself , it was further practice for our skills in design and multimedia.Designing this poster collaboratively with my team while reflecting on our valuable takes from the talk, was a truly enjoyable time!
@@ -72,7 +73,6 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 </p>
 <p align="center" >Industry Talk 1 Poster</p>
 
----
 
 ### 3. PC Assemble (Lab)🖥️
 * **Summary:** I gained hands-on experience by completely disassembling a PC and carefully putting it back together, ensuring all hardware components like the motherboard, RAM, and power supply were correctly seated and connected.
@@ -84,7 +84,6 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 </p>
 <p align="center" >The beauty of a PC from inside!</p>
 
----
 
 ### 4. Academic Writing on Industry Talk 2📑
 * **Summary:** In an elaborate and interactive session, we had discussed the Agile and Waterfall software development methodologies, alongside many other relevant concepts in the field of Project Management and System Development. This informative talk was delivered by the experienced Head of Technology and Innovation at Serunai Commerce Sdn Bhd :TS.HJ.Abdul Alim Bin Abdul Muttalib, whom had also genrously shared with us his experience from the moment of graduation until his respected position today. Greatly relating to his story and background, we gained the courage to work harder and become more aware of the need to keeping up with the industry's skill demands and realities.
@@ -96,7 +95,6 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 </p>
 <p align="center" >Industry Talk 2 Report</p>
 
----
 
 ### 5. Design Thinking
 * **Summary:** For our final Design Thinking project at Universiti Teknologi Malaysia, my team and I tackled a common challenge on campus: transportation efficiency. We proposed and designed the Modern UTM Bus Navigation System, an interface-only prototype aimed at transforming the daily commute for people across campus.Through this collaboration, we moved beyond theoretical learning to successfully applying user-centric design and analytical problem-solving.
@@ -108,7 +106,6 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 </p>
 <p align="center" >UTM Bus Navigator Prototype</p>
 
----
 
 ### 6. [Assignment Title 6]
 * **Summary:** [Summarize what you gained from this assignment]
