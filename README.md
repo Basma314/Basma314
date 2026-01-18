@@ -15,6 +15,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 
 
 ### 🛠️ Technical & Soft Skills
+-----------------------
 
 #### **Programming & Design Tools**
 <p align="left">
@@ -33,6 +34,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 
 
 ### 🎓 Education & Position
+-----------------------
 
 #### **Bachelors in Computer Science (Networks and Security) | Universiti Teknologi Malaysia**
 * **Current Status:** Freshman
@@ -47,6 +49,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 
 
 ## 📝 Course Assignments & Reflections
+-----------------------
 
 ### 1. Video Blog to UTM Digital Day🎬
 * **Summary:** What a memorable day ! Vibrant, full of good vibes and insightful interactions. Thanks to this assignment , my group and I had the honour of exploring how UTM is embracing digital transformation. All the various talks delivered by the biggest names in the Tech Industry as well as their interactive booth educated us on the latest technology in the field and what our future selves could look like pursuing our desired careers.
@@ -106,7 +109,6 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 </p>
 <p align="center" >UTM Bus Navigator Prototype</p>
 
-
 ---
 
 ### 6. [Assignment Title 6]
@@ -117,8 +119,8 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 
 
 
-
 ## 🏆 Accomplishments & Engagement
+-----------------------
 
 ### 📜 Professional Certifications
 * 1 Million Prompters - Dubai Centre for Artificial Intelligence (DCAI) & Dubai Future Foundation (DFF)
@@ -129,12 +131,14 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 
 
 ### 🎖️ Awards 
+-----------------------
 <p align="left">
   <img src="https://github.com/user-attachments/assets/ac448c80-d6ab-47ca-9b95-850b4a1dcafa" width="100" height="100" alt="Leadership badge">  <img src="https://github.com/user-attachments/assets/da94b4f7-fae5-4914-8a94-42d589c3f996" width="100" height="100" alt="ALP badge"><img src="https://github.com/user-attachments/assets/808ba387-fb1e-464c-87c2-c9bb6ef6c754" width="100" height="100" alt="ISO badge">
 </p>
 
 
 ### 🎆 Socials
+-----------------------
 
 <p align="left"> <a href="https://www.github.com/basma314" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.threads.net/@frn.bano" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://www.linkedin.com/in/soon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
