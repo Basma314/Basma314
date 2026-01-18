@@ -10,7 +10,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 * ✉️  You can contact me at [mutasim.ibrahim@graduate.utm.my](mailto:mutasim.ibrahim@graduate.utm.my)
 * 🧠  I'm currently learning C++, American Sign Language, UX and UI Design
 * 👥  I'm looking to collaborate on Human-Centric Security Design , Legal-Tech Solutions for Digital Rights , Creative AI Safety
-* 💬  Ask me about Always down to spill the tea on societal trends🍵
+* 💬  Ask me about Always down to spill the tea on economics and societal trends🍵
 
 
 
@@ -123,9 +123,9 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 * Virtual Global Hackathon 2023 - Crimson Education 
 
 
-### 🎖️ Awards & Extracurriculars
+### 🎖️ Awards 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/ac448c80-d6ab-47ca-9b95-850b4a1dcafa" width="90" height="90" alt="Assignment Photo">  <img src="https://github.com/user-attachments/assets/da94b4f7-fae5-4914-8a94-42d589c3f996" width="90" height="90" alt="Assignment Photo">
+  <img src="https://github.com/user-attachments/assets/ac448c80-d6ab-47ca-9b95-850b4a1dcafa" width="100" height="100" alt="Assignment Photo">  <img src="https://github.com/user-attachments/assets/da94b4f7-fae5-4914-8a94-42d589c3f996" width="100" height="100" alt="Assignment Photo">
 </p>
 
 
