@@ -10,7 +10,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 * ✉️  You can contact me at [mutasim.ibrahim@graduate.utm.my](mailto:mutasim.ibrahim@graduate.utm.my)
 * 🧠  I'm currently learning C++, American Sign Language, UX and UI Design
 * 👥  I'm looking to collaborate on Human-Centric Security Design, Legal-Tech Solutions for Digital Rights, Creative AI Safety
-* 💬  Ask me about Always down to spill the tea on economics and societal trends 🍵
+* 💬  Always down to spill the tea on economics and societal trends 🍵
 
 
 ## 🛠️ Technical & Soft Skills
