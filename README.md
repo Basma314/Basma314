@@ -87,7 +87,7 @@ A freshman in Computer Science: Networks and Security, with a vision for AI Ethi
 * **Reflections:** On a personal level, I truly valued how this project strengthened the bond between my teammates and me, turning it from a complex assignment into a rewarding shared journey. This project challenged my creativity and pushed me to think deeply about how empathetic design can directly improve the mental well-being and daily logistics of those around us.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/981dbb7c-f2f4-49e1-baa2-ab8c044bd5f0" width="250" alt="Prototype">
+  <img src="https://github.com/user-attachments/assets/e31e1f87-a6b9-4341-86c3-9439a9953899" width="250" alt="Prototype">
 </p>
 <p align="center">UTM Bus Navigator Prototype</p>
 
